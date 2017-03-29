@@ -7,4 +7,6 @@ include 'spring-boot-sample-exception-handler'
 findProject(':spring-boot-sample-exception-handler')?.name = 'spring-boot-sample-global-exception'
 include 'spring-boot-sample-shiro'
 include 'spring-boot-sample-validation'
+include 'spring-boot-sample-rabbitmq'
+include 'spring-boot-sample-amqp'
 
